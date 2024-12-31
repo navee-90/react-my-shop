@@ -5,7 +5,7 @@ import { FaBackspace, FaShoppingCart } from 'react-icons/fa';
 const NavBar = () => {
   return (
     <nav className="navbar">
-      <h2>DailyApp</h2>
+      <h2>DailyStoreApp</h2>
       <ul className="nav-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#products">Products</a></li>
